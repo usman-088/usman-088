@@ -8,7 +8,7 @@
 
 ## About
 
-Full-stack developer with 3+ years building production-grade web and mobile applications — and a growing specialization in AI and LLM integration. I work across React, React Native, Node.js, and modern AI tooling, shipping features that are measurable, maintainable, and user-focused. Currently based in Germany and available for full-time roles or project-based work.
+Full-stack developer with 3+ years building production-grade web and mobile applications — and a growing specialization in AI and LLM integration. I work across React, React Native, Node.js, and modern AI tooling, shipping features that are measurable, maintainable, and user-focused. Currently based in Germany and available for full-time roles.
 
 ---
 
@@ -104,4 +104,4 @@ Voice-driven mobile AI with local LLM, device action execution, streaming respon
 
 ## Contact
 
-✉️ usmanali14815@gmail.com  |  [LinkedIn](https://linkedin.com/in/musman088)  |  [Google Dev](https://g.dev/developerusman)  |  +49 176 71672053
+✉️ usmanali14815@gmail.com  |  [LinkedIn](https://linkedin.com/in/musman088)  |  [Google Dev](https://g.dev/developerusman) 
