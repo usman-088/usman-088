@@ -89,19 +89,6 @@ End-to-end encrypted file sharing with QR access, role-based permissions, subscr
 Voice-driven mobile AI with local LLM, device action execution, streaming responses, wake word detection.
 `React Native` `Ollama` `LLaMA 3` `On-device AI`
 
----
-
-## Experience
-
-| Period | Role | Company |
-|---|---|---|
-| May–Dec 2025 | React Native & Frontend Developer | Stallyons Technologies, Karachi |
-| Feb–Apr 2025 | Full Stack Mobile Developer | Async Tech, Karachi |
-| Feb 2024–Feb 2025 | Full Stack Web & App Developer | Devop360 Technology, Karachi |
-| Jul 2022–Sep 2023 | Freelance Frontend & Full Stack | Fiverr (remote, international clients) |
-
----
-
 ## Contact
 
 ✉️ usmanali14815@gmail.com  |  [LinkedIn](https://linkedin.com/in/musman088)  |  [Google Dev](https://g.dev/developerusman) 
