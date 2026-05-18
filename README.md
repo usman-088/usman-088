@@ -1,53 +1,49 @@
-# 👋 Hi, I'm Muhammad Usman
+# Muhammad Usman
 
-I'm a **Full Stack Web and Mobile Developer** with a strong focus on creating modern, scalable, and efficient applications. With expertise in **MERN Stack (MongoDB, Express, React, Node.js)** for web development and **React Native** for mobile app development, I build applications that deliver great user experiences across both platforms.
+**Full-Stack & Mobile Developer · React · React Native · Node.js · Based in Germany**
 
----
-
-## 🚀 About Me
-
-- 🔭 I’m currently working on exciting projects that solve real-world problems using modern technologies.
-- 🌱 I’m constantly learning new tools and techniques to improve my craft and stay updated with the latest industry trends.
-- 👯 I’m open to collaborating on **open-source** projects or **freelance** opportunities.
-- ⚡ Fun fact: I'm passionate about turning ideas into reality through **code** and **creativity**!
+📍 Germany  |  Open to work  |  3+ years experience  |  EN · DE · UR
 
 ---
 
-## 🛠️ My Tech Stack
+## About
 
-### 💻 Web Development:
-- **Frontend**: HTML, CSS, JavaScript, React.js, Next.js
-- **Backend**: Node.js, Express.js, MongoDB, RESTful APIs
-- **Database**: MongoDB, MySQL, PostgreSQL
-- **Version Control**: Git, GitHub, GitLab
-
-### 📱 Mobile Development:
-- **React Native**: iOS & Android app development
-- **State Management**: Redux, Context API
-- **UI/UX**: Styled Components, Material UI, Tailwind CSS
-
-### 🛠️ Other Tools:
-- **Cloud**: AWS, Heroku, Firebase
-- **CI/CD**: GitHub Actions
-- **DevOps**: Docker, DigitalOcean
+Full-stack developer with 3+ years building production-grade web and mobile applications. I specialize in React, React Native, and Node.js — from authentication systems and real-time features to cross-platform mobile apps and API integrations. Currently based in Germany and available for full-time roles or project-based work.
 
 ---
 
-## 📈 GitHub Stats
+## Tech stack
 
-![Muhammad Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usman-088&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usman-088&layout=compact&theme=radical)
-
----
-
-## 💬 Let's Connect!
-
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mu.usman.1481@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musman088/)
-
-
-Feel free to reach out to discuss collaboration opportunities or if you'd just like to connect and share ideas!
+| Area | Technologies |
+|---|---|
+| Mobile | React Native, Expo, iOS & Android |
+| Frontend | React.js, Next.js, TypeScript, Tailwind CSS |
+| Backend | Node.js, Express.js, REST APIs, WebSocket |
+| Data | PostgreSQL, MongoDB, MySQL, Redis |
+| DevOps | Docker, GitHub Actions CI/CD, AWS EC2/S3, VPS |
 
 ---
 
-**"Code is the bridge between ideas and reality."**
+## Selected projects
+
+**PaySphere — Multi-currency mobile wallet**
+Real-time exchange rates, QR payments, Stripe integration, biometric auth, and AI chatbot. Reduced API response times by 60% through Redis caching and optimized data handling.
+`React Native` `Node.js` `Stripe` `WebSocket` `AWS S3`
+
+**Improve-Self — AI fitness application**
+Personalized calorie tracking, diet planning, and AI-driven recommendations. Reached 10,000+ downloads on app stores.
+`React Native` `Expo` `REST APIs` `AI Integration`
+
+**BuyTheLook — Smart e-commerce platform**
+AI-driven product recommendations and interactive shopping flows. Improved conversion rates by 40%.
+`React.js` `Node.js` `MongoDB` `TypeScript`
+
+**Qreeting — Secure file sharing system**
+End-to-end encrypted file sharing with QR access, role-based permissions, and subscription billing via AWS S3.
+`React.js` `Node.js` `AWS S3` `PostgreSQL`
+
+---
+
+## Contact
+
+✉️ usmanali14815@gmail.com  |  [LinkedIn](https://linkedin.com/in/musman088)  |  [Google Dev](https://g.dev/developerusman)
