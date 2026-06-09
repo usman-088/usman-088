@@ -2,7 +2,7 @@
 
 **Full-Stack & Mobile Developer · React · React Native · Node.js · AI/LLM Integration**
 
-📍 Germany  |  Open to work  |  3+ years  |  EN · DE · UR
+📍 Germany  |  Open to work  |  4+ years  |  EN · DE · UR
 
 ---
 
