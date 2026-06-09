@@ -8,7 +8,7 @@
 
 ## About
 
-Full-stack developer with 3+ years building production-grade web and mobile applications — and a growing specialization in AI and LLM integration. I work across React, React Native, Node.js, and modern AI tooling, shipping features that are measurable, maintainable, and user-focused. Currently based in Germany and available for full-time roles.
+Full-stack developer with 4+ years building production-grade web and mobile applications — and a growing specialization in AI and LLM integration. I work across React, React Native, Node.js, and modern AI tooling, shipping features that are measurable, maintainable, and user-focused. Currently based in Germany and available for full-time roles.
 
 ---
 
